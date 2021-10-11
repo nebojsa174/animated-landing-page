@@ -1,3 +1,6 @@
+# Animated landing page built with React
+Available [![Netlify Status](https://api.netlify.com/api/v1/badges/be0b7701-f486-44be-b321-3828c37ad884/deploy-status)](https://app.netlify.com/sites/animated-landing-page-smart-banking/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
