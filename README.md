@@ -1,5 +1,7 @@
 # Animated landing page built with React
-Available [here](https://animated-landing-page-smart-banking.netlify.app/)
+## Available [here](https://animated-landing-page-smart-banking.netlify.app/)
+![exapmle](https://user-images.githubusercontent.com/80694464/136815165-15742ccc-2ab2-4269-837e-8a87e80e41b5.jpg)
+
 
 # Getting Started with Create React App
 
